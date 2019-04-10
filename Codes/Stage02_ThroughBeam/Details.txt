@@ -1,0 +1,11 @@
+
+** Stage 2 ** 
+Filter paper being applied 
+1000 cycles 
+
+1. Motor Running ( YO ) 
+2. Senses - Hole ( X2 )  
+3. Motor Stops ( YO ) 
+4. Punch Filter Paper  ( Y7 ) 
+5. Motor Runs ( Y0 ) 
+

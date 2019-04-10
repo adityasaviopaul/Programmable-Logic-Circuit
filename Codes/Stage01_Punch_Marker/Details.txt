@@ -1,0 +1,11 @@
+
+** Stage 1 ** 
+Punch cum marker at predescribed distance 
+1000 cycles 
+
+1. Motor Running ( YO ) 
+2. Predescribed Stops at limited distance 
+3. Punch 1 - Through Punch ( Y7 ) 
+4. Punch 2 - Marker Punch ( Y6 ) 
+5. Motor Starts 
+

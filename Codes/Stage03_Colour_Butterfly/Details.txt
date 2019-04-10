@@ -1,0 +1,11 @@
+
+** Stage 3 ** 
+Butterfly being punched 
+1000 cycles 
+
+1. Motor Running ( YO ) 
+2. Senses - Stamp line ( X3 )  
+3. Motor Stops ( YO ) 
+4. Punch Butterfy ( half cut ) ( Y7 ) 
+5. Motor Runs ( Y0 ) 
+
